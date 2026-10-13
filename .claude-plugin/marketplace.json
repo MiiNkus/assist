@@ -1,0 +1,12 @@
+{
+  "name": "hiring-assistant-marketplace",
+  "owner": { "name": "Hiring Evaluation Framework Contributors" },
+  "plugins": [
+    {
+      "name": "hiring-assistant",
+      "source": "./plugins/hiring-assistant",
+      "description": "Bias-aware, rubric-driven candidate evaluation for engineering hiring.",
+      "version": "0.1.0"
+    }
+  ]
+}

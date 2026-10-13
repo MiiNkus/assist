@@ -1,0 +1,10 @@
+{
+  "name": "hiring-assistant",
+  "version": "0.1.0",
+  "description": "Bias-aware, rubric-driven evaluation of software engineer and engineering manager candidates: resume scoring, interview prep, interview assessment, candidate comparison, fact-checking and batch reports.",
+  "author": { "name": "Hiring Evaluation Framework Contributors" },
+  "homepage": "https://github.com/mtgibbs/claude-hiring-assistant",
+  "repository": "https://github.com/mtgibbs/claude-hiring-assistant",
+  "license": "MIT",
+  "keywords": ["hiring", "recruiting", "resume", "interview", "rubric", "bias"]
+}
